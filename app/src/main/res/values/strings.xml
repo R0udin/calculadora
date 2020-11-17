@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CalculatorTeste</string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="clear">C</string>
+    <string name="exponent">^</string>
+    <string name="LogN">LogN</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="plusMinus">+/-</string>
+    <string name="point">.</string>
+    <string name="equals">=</string>
+
+
+    <string name="backspace"> </string>
+    <string name="squareRoot">√</string>
+    <string name="module">mod</string>
+    <string name="factorial">x!</string>
+    <string name="square"> ❏ </string>
+    <string name="atan">atan</string>
+    <string name="log">log</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="asin">asin</string>
+    <string name="acos">acos</string>
+    <string name="inverse">inverse</string>
+</resources>
